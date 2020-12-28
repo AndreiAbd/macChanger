@@ -1,6 +1,6 @@
 
- ¦¯¯ ¦¯¦ ¦¯_ ¦¯¯ ¦¯¦ ¯_¯ 
- ¦__ ¦_¦ ¦_¯ ¦¦_ ¦¯_ ¦¦¦ 
+ Â¦Â¯Â¯ Â¦Â¯Â¦ Â¦Â¯_ Â¦Â¯Â¯ Â¦Â¯Â¦ Â¯_Â¯ 
+ Â¦__ Â¦_Â¦ Â¦_Â¯ Â¦Â¦_ Â¦Â¯_ Â¦Â¦Â¦ 
 
 [*] Introduction:
   Mac Changer Tool, Simple bash script writen by Andrei Abd | CoderX
@@ -16,4 +16,4 @@
 - Run macChanger with bash or: './macChanger.sh'
 
 [*] Contact:
-- For more information can mail by adress : usr.g0a1@gmail.com
+- For more information : usr.g0a1@gmail.com
