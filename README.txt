@@ -17,7 +17,7 @@ REQUEST USER PRIVILGES            true
 FILE VERSION                      1.0
 ========================================================================
 ========================================================================
-		                            [ DESCRIPCTION ]
+		              [ DESCRIPCTION ]
 ========================================================================
 - Mac Changer Tool, Simple bash script writen by Andrei Abd | CoderX
   this tool can change the Mac Adress name of Wlan Card Device, with
